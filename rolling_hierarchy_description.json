@@ -1,0 +1,32 @@
+{
+    "Overfill": [
+        "A10_Overfill_L",
+        "A11_OVerfill_W",
+        "A12_Overfill_B"
+    ],
+    "Tdn": [
+        "A20_Tdn_L",
+        "A21_Tdn_H"
+    ],
+    "Chipmark": [
+        "A30_Chipmark_W",
+        "A31_Chipmark_D"
+    ],
+    "Crack": [
+        "A40_Crack_B",
+        "A41_Crack_T"
+    ],
+    "Burst": [
+        "A70_Burst"
+    ],
+    "SSGouge": [
+        "A50_SS_Gouge_D",
+        "A51_SS_Gouge_W"
+    ],
+    "Whitemark": [
+        "A60_WhiteMark_I"
+    ],
+    "Passwear": [
+        "A61_PassWear_I"
+    ]
+}
